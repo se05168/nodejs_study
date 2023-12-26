@@ -18,7 +18,7 @@ function basicContent(title, filelist, matchTitle){
       <title>${matchTitle[title]}</title>
     </head>
     <body>
-      <h1><a href="/">난 케이팝이 너무 좋아 짱짱</a></h1>
+      <h1><a href="/">제목목</a></h1>
       ${list}
       <a href="/create">글쓰기</a>
       `;
